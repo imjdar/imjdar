@@ -32,19 +32,13 @@ Soy **Jimmy Alvarado**, Ingeniero en Sistemas de Información con experiencia en
 
 ---
 
-## 🚀 Proyectos Destacados
 
-- 🧾 [Sistema de Inventario Textil](https://github.com/imjdar/sistema-inventario) – App móvil + backend Node.js + MongoDB para control de stock offline.
-- ⚙️ [Distribuidor de Carga LAN](https://github.com/imjdar/distribuidor-carga-pc) – Arquitectura master-slave con Python para balanceo de tareas.
-- 📋 [Generador de Cotizaciones](https://github.com/imjdar/cotizador-software) – Sistema web con planillas personalizadas y exportación a PDF/Excel.
 
 ---
 
 ## 📈 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imjdar&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Jimmy" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjdar&layout=compact&theme=radical" alt="Lenguajes más usados" />
