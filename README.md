@@ -1,46 +1,56 @@
-## Hi there 👋
+<!-- Perfil Profesional README.md - Jimmy Alvarado -->
 
-<!-- Encabezado personalizado para tu perfil de GitHub -->
-<h1 align="center">¡Hola, soy Jimmy Alvarado! 👋</h1>
+<!-- Título principal con efecto degradado -->
+<h1 align="center" style="font-size: 3em; background: -webkit-linear-gradient(90deg, #007cf0, #00dfd8); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+  👨‍💻 Jimmy Alvarado
+</h1>
 
-<p align="center">
-  <strong>Ingeniero en Sistemas de Información</strong><br>
-  Trabajador Independiente 💼<br>
-  Apasionado por la tecnología y la creación de soluciones eficientes 🚀
+<p align="center" style="font-size: 1.2em; color: #555;">
+  Ingeniero en Sistemas de Información • Desarrollador Independiente
 </p>
 
-<hr>
+<hr style="border: none; border-top: 2px solid #00dfd8; width: 60%; margin: 1.5em auto;">
 
-<!-- Estilo básico embebido -->
-<div style="font-family:Segoe UI, sans-serif; line-height:1.6; font-size:16px; color:#333;">
+<!-- Contenedor principal -->
+<div style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin: auto; padding: 20px; border-radius: 10px; background: #f9f9f9; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 
-  <h2>🛠️ Tecnologías que uso y domino:</h2>
-
-  <ul>
-    <li><strong>Lenguajes:</strong> JavaScript, TypeScript, Python</li>
-    <li><strong>Backend:</strong> Node.js, Express.js</li>
-    <li><strong>Bases de Datos:</strong> MongoDB, PostgreSQL, SQL Server</li>
-    <li><strong>Frontend:</strong> React Native, Next.js</li>
-  </ul>
-
-  <h2>📌 Sobre mí</h2>
-  <p>
-    Soy una persona autodidacta, siempre en busca de nuevos desafíos y oportunidades para aprender.
-    Actualmente desarrollo proyectos de forma independiente, ofreciendo soluciones a medida para diversos clientes.
+  <!-- Sobre mí -->
+  <h2 style="color:#00b3b3;">🙋‍♂️ Sobre mí</h2>
+  <p style="font-size: 1em; color: #333;">
+    ¡Hola! Soy Jimmy, un apasionado Ingeniero en Sistemas de Información enfocado en construir soluciones modernas con tecnologías web y móviles. Actualmente trabajo de forma independiente ayudando a empresas a digitalizar y optimizar sus procesos con tecnología.
   </p>
 
-  <h2>📫 Cómo contactarme</h2>
-  <ul>
-    <li>💻 GitHub: <a href="https://github.com/imjdar" target="_blank">github.com/imjdaro</a></li>
-    <li>📧 Email: <a href="djimmyalvarado002@gmail.com">djimmyalvarado002@gmail.com</a></li>
-    <!-- Agrega más enlaces como LinkedIn o portafolio si deseas -->
+  <!-- Tecnologías -->
+  <h2 style="color:#00b3b3;">🧰 Tecnologías que domino</h2>
+
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <span style="background-color: #e8f5ff; padding: 8px 14px; border-radius: 20px; font-weight: bold;">JavaScript</span>
+    <span style="background-color: #f5e8ff; padding: 8px 14px; border-radius: 20px; font-weight: bold;">TypeScript</span>
+    <span style="background-color: #e0ffe8; padding: 8px 14px; border-radius: 20px; font-weight: bold;">Node.js</span>
+    <span style="background-color: #ffe8e8; padding: 8px 14px; border-radius: 20px; font-weight: bold;">Python</span>
+    <span style="background-color: #fff0e5; padding: 8px 14px; border-radius: 20px; font-weight: bold;">MongoDB</span>
+    <span style="background-color: #e8f0ff; padding: 8px 14px; border-radius: 20px; font-weight: bold;">PostgreSQL</span>
+    <span style="background-color: #f0f0f0; padding: 8px 14px; border-radius: 20px; font-weight: bold;">SQL Server</span>
+    <span style="background-color: #e5f7ff; padding: 8px 14px; border-radius: 20px; font-weight: bold;">React Native</span>
+    <span style="background-color: #e5fffa; padding: 8px 14px; border-radius: 20px; font-weight: bold;">Next.js</span>
+  </div>
+
+  <!-- Contacto -->
+  <h2 style="color:#00b3b3;">📬 Contacto</h2>
+  <ul style="list-style: none; padding-left: 0; color: #333;">
+    <li>🔗 GitHub: <a href="https://github.com/tu_usuario" target="_blank" style="color:#007cf0; text-decoration: none;">github.com/tu_usuario</a></li>
+    <li>📧 Correo: <a href="mailto:tuemail@ejemplo.com" style="color:#007cf0; text-decoration: none;">tuemail@ejemplo.com</a></li>
+    <!-- Agrega más enlaces si lo deseas -->
   </ul>
 
+  <!-- Frase final -->
+  <blockquote style="margin-top: 2em; padding: 1em; background: #e6fffa; border-left: 5px solid #00dfd8; font-style: italic; color: #444;">
+    “La tecnología no es nada. Lo importante es tener fe en las personas.” – Steve Jobs
+  </blockquote>
 </div>
 
-<hr>
-
-<p align="center" style="font-size:14px;">
-  🚀 Gracias por visitar mi perfil. ¡Siempre estoy abierto a colaborar y crear algo increíble!
+<p align="center" style="font-size: 0.9em; color: #888; margin-top: 2em;">
+  © Jimmy Alvarado – Última actualización: 2025
 </p>
+
 
