@@ -51,8 +51,10 @@ Soy **JDAR**, Ingeniero en Sistemas de Información y Junior Full Stack Develope
 
 ## 📈 Estadísticas de GitHub
 
-[![Estadísticas de JDAR](https://github-readme-stats.vercel.app/api?username=imjdar&show_icons=true&theme=radical&hide_border=true)](https://github.com/imjdar)
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=imjdar&layout=compact&theme=radical&hide_border=true)](https://github.com/imjdar)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imjdar&show_icons=true&theme=radical&hide_border=true&v=1" alt="Estadísticas de JDAR" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjdar&layout=compact&theme=radical&hide_border=true&v=1" alt="Lenguajes más usados" />
+</p>
 
 ---
 
