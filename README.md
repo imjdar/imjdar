@@ -1,89 +1,82 @@
 <div align="center">
-  <h1 style="color: #007cf0;">👋 ¡Hola, soy JDAR!</h1>
-  <h3>Ingeniero en Sistemas de Información | Junior Full Stack Developer | Freelance</h3>
+  <h1>Hi there, I'm Jimmy Alvarado 👋</h1>
+  <h3>Full Stack & Frontend Developer | AI Enthusiast | Information Systems Engineer</h3>
+  <p>Bridging the gap between robust software architecture, minimalist UI/UX, and modern AI solutions.</p>
 </div>
 
-<hr style="border: none; border-top: 1px solid #ddd; width: 80%; margin: 2em auto;">
+---
 
-## 🙋 Sobre mí
+### 👨‍💻 Professional Profile
 
-Soy **JDAR**, Ingeniero en Sistemas de Información y Junior Full Stack Developer. Me especializo en el ciclo completo de desarrollo, desde el diseño de aplicaciones web y móviles híbridas hasta la estructuración de bases de datos, flujos ETL y despliegues automatizados. Me enfoco en optimizar procesos de software y me encuentro en búsqueda activa de nuevas oportunidades laborales para seguir aportando valor y código limpio.
+- 🚀 **Targeting:** Seeking **Frontend / Full Stack** roles (Open to Remote/LATAM) where I can leverage my experience in modernizing complex applications.
+- 💡 **Core Focus:** Building high-performance SPAs and robust backends utilizing **Angular**, **React**, and **.NET**, strictly adhering to **Clean Architecture** and **SOLID principles**.
+- 🧠 **AI & Cloud Forward:** Actively keeping up with the latest AI development trends. Currently pursuing **Microsoft DevOps (AZ-400)** and **Microsoft Azure AI Fundamentals (AI-901)** certifications[cite: 1].
+- 🏆 **Recent Milestones:** Participated in the **Microsoft AI Skills Fest 2026**[cite: 1] and completed the Dashboard in a Day - Power BI certification[cite: 1].
 
 ---
 
-## 🚀 Lo que estoy construyendo ahora
+### 💼 Technical Experience Highlights
 
-* **DAVA:** Liderando la arquitectura y desarrollo de una aplicación móvil multiplataforma orientada a la gestión y organización.
-* **Proyecto Panorama:** Diseñando la arquitectura para un sistema de automatización y procesamiento de datos generales.
-* **Proyectos Freelance:** Creación de landing pages (ej. Growco) y soluciones web a medida para distintos clientes.
-
----
-
-## 💼 Experiencia Destacada
-
-* **Técnico Docente** - PUCE *(Oct 2025 - Feb 2026)*
-* **Full Stack Developer** - Prode Óptica *(Abr 2025 - Sep 2025)*
-* **Full Stack Developer (Mobile & Web)** - Zona Deportiva *(Sep 2024 - Mar 2025)*
-* **Líder Técnico AR / Soporte TI** - PUCE *(Mar 2024 - Jun 2024, 4 meses)*
-* **Frontend Developer** - Buffet de Abogados *(Finales de 2023)*
-* **Pasante en Tecnología de la Información** - Banco Guayaquil *(6 meses)*
+- 🏢 **Financial & POS Systems Modernization**
+  - Modernized legacy accounting and point-of-sale software[cite: 1]. Spearheaded the frontend migration to a scalable SPA using `Angular`, `TypeScript`, and `.NET`[cite: 1], optimizing critical transactional flows and operational scalability[cite: 1].
+- ⚡ **High-Performance Web Platforms**
+  - Led frontend development utilizing `Next.js` and `Tailwind CSS` with Server-Side Rendering (SSR) to ensure stability and fast load times under high concurrency[cite: 1].
+- 📦 **Custom Dashboards & Inventory Management**
+  - Built interactive frontend dashboards to centralize data, drastically reducing manual stock errors using `React`, `Django`, and `Docker`[cite: 1].
+- 📱 **Cross-Platform Mobile MVPs**
+  - Architected and deployed robust mobile application MVPs using `React Native`[cite: 1], ensuring smooth deployment cycles via CI/CD pipelines[cite: 1].
 
 ---
 
-## 🧠 Tecnologías que domino
+### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/-.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
+**Frontend & UI**
+<div align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</div>
+<br>
 
----
+**Backend & Architecture**
+<div align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</div>
+<br>
 
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imjdar&show_icons=true&theme=radical&hide_border=true&v=1" alt="Estadísticas de JDAR" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjdar&layout=compact&theme=radical&hide_border=true&v=1" alt="Lenguajes más usados" />
-</p>
-
----
-
-## 📚 Actualmente explorando / aprendiendo
-
-- 🏗️ **Arquitectura de Microservicios** enfocada en .NET.
-- 📊 **Data Science y Business Intelligence**.
-- ⚛️ **Computación Cuántica**.
-- 📱 Profundizando en frameworks móviles como **Flutter** y **React Native**.
+**Cloud, AI & DevOps**
+<div align="left">
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/AI_Integration-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
+</div>
 
 ---
 
-## 🤝 ¿Buscas colaborador?
-
-Estoy disponible para integrarme a equipos de desarrollo o colaborar en proyectos freelance. Me especializo en backend con Node.js y .NET, así como en aplicaciones móviles con React Native. ¡Contáctame y trabajemos juntos!
-
----
-
-## 📬 Contacto
-
-- 🌐 **GitHub:** [github.com/imjdar](https://github.com/imjdar)
-- ✉️ **Correo:** [djimmyalvarado002@gmail.com](mailto:djimmyalvarado002@gmail.com)
-
----
-
-> 💡 *"La pasión por aprender y construir es la mejor tecnología que uno puede tener."*
+### 📊 GitHub Stats
 
 <div align="center">
-  <p style="font-size: 0.9em; color: #888; margin-top: 2em;">
-    💖 Gracias por visitar mi perfil – Última actualización: Abril 2026
-  </p>
+  <img src="https://github.readme-stats.vercel.app/api?username=imjdar&show_icons=true&theme=transparent&hide_border=true&title_color=000000&icon_color=000000&text_color=333333" alt="Jimmy's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imjdar&theme=transparent&hide_border=true&title_color=000000&icon_color=000000&text_color=333333" alt="Jimmy's GitHub Streak" />
+</div>
+
+---
+
+### 📫 Let's Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/jdar002">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:djimmyalvarado002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
